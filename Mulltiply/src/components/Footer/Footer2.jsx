@@ -6,9 +6,9 @@ import img5 from '../assets/f24.jpg'
 
 function Footer2() {
   return (
-    <div className="mx-auto grid w-full h-screen items-center space-y-4 px-2 py-10 md:grid-cols-2 md:gap-6 md:space-y-0 lg:grid-cols-4">
+    <div className="mx-auto grid w-full h-screen items-center space-y-4 px-2 py-10 md:grid-cols-2 md:gap-6 md:space-y-0 lg:grid-cols-4 sm:grid-rows-4">
         <div
-          className="mb-3 relative aspect-[16/9] w-auto rounded-md md:aspect-auto md:h-[400px] group cursor-pointer overflow-hidden"
+          className="mb-1 relative aspect-[16/9] w-auto rounded-md md:aspect-auto md:h-[400px] group cursor-pointer overflow-hidden"
         >
           <img
             src={img1}

@@ -12,6 +12,7 @@ import Footer4 from './components/Footer/Footer4.jsx'
 import Footer5 from './components/Footer/Footer5.jsx'
 import Footer6 from './components/Footer/Footer6.jsx'
 import Footer7 from './components/Footer/Footer7.jsx'
+import Footer8 from './components/Footer/Footer8.jsx'
 
 export function App() {
   return (
@@ -19,13 +20,13 @@ export function App() {
      {/* <HomePage1/>
      <HomePage4/>
      <HomePage5/> */}
-     {/* <Footer/>
-     <Footer2/>
-     {/* <Footer3/> */}
-     {/* <Footer4/>
+     <Footer/>
+     {/* <Footer2/>
+     <Footer4/> */}
      <Footer5/>
-     <Footer6/> */}
-     <Footer7/>
+     <Footer6/>
+     {/* <Footer7/> */}
+     <Footer8/>
     </div>
   )
 }
