@@ -6,8 +6,8 @@ import img5 from '../assets/hori24.jpg'
 
 function Footer5() {
   return (
-    <div className='h-screen grid grid-cols-2' >
-      <div className='object-contain bg-cover group relative'>
+    <div className='grid grid-cols-2 h-screen lg:h-screen'>
+      <div className='group relative'>
         <div className='h-full'>
         <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
@@ -17,7 +17,7 @@ function Footer5() {
             <p className='my-2 mx-auto font-serif font-bold text-center cursor-pointer opacity-0 text-white lg:group-hover:opacity-100'>Shop Now &rarr;</p>
         </div>
       </div>
-      <div className='object-contain bg-cover group relative'>
+      <div className='group relative'>
         <div className='h-full'>
         <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
@@ -27,7 +27,7 @@ function Footer5() {
             <p className='my-2 mx-auto font-serif font-bold text-center cursor-pointer opacity-0 text-white lg:group-hover:opacity-100'>Shop Now &rarr;</p>
         </div>
       </div>      
-      <div className='object-contain bg-cover group relative'>
+      <div className='group relative'>
         <div className='h-full'>
         <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
@@ -37,7 +37,7 @@ function Footer5() {
             <p className='my-2 mx-auto font-serif font-bold text-center cursor-pointer opacity-0 text-white lg:group-hover:opacity-100'>Shop Now &rarr;</p>
         </div>
       </div>      
-      <div className='object-contain bg-cover group relative'>
+      <div className='group relative'>
         <div className='h-full'>
         <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
