@@ -17,10 +17,10 @@ export function App() {
      {/* <HomePage1/>
      <HomePage4/>
      <HomePage5/> */}
-     {/* <Footer/>
+     <Footer/>
      <Footer2/>
      <Footer3/>
-     <Footer4/> */}
+     <Footer4/>
      <Footer5/>
     </div>
   )
