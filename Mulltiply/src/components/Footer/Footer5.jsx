@@ -8,8 +8,8 @@ function Footer5() {
   return (
     <div className='grid grid-cols-2 h-screen lg:h-screen'>
       <div className='group relative'>
-        <div className='h-full'>
-        <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
+        <div className='h-full rounded-md'>
+        <img className='z-0 w-full h-full object-cover rounded-md transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
         <div className='absolute inset-0'></div>
         <div className='absolute w-full bottom-8'>
@@ -19,7 +19,7 @@ function Footer5() {
       </div>
       <div className='group relative'>
         <div className='h-full'>
-        <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
+        <img className='z-0 w-full h-full object-cover rounded-md transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
         <div className='absolute inset-0'></div>
         <div className='absolute w-full bottom-8'>
@@ -29,7 +29,7 @@ function Footer5() {
       </div>      
       <div className='group relative'>
         <div className='h-full'>
-        <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
+        <img className='z-0 w-full h-full object-cover rounded-md transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
         <div className='absolute inset-0'></div>
         <div className='absolute w-full bottom-8'>
@@ -39,7 +39,7 @@ function Footer5() {
       </div>      
       <div className='group relative'>
         <div className='h-full'>
-        <img className='z-0 w-full h-full object-cover transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
+        <img className='z-0 w-full h-full object-cover rounded-md transition duration-200 group-hover:opacity-80' src={img4} alt="image not found" />
         </div>
         <div className='absolute inset-0'></div>
         <div className='absolute w-full bottom-8'>
